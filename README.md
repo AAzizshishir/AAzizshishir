@@ -8,8 +8,6 @@ Skills: JS / HTML / CSS
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AAzizshishir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Abdul Aziz Shishir)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=AAzizshishir)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAzizshishir)](https://github.com/anuraghazra/github-readme-stats)
