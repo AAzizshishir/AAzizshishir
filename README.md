@@ -1,4 +1,4 @@
-### Hi there 👋, I,m Md Abdul Aziz
+### Hi there 👋, I'm Md Abdul Aziz
 Currently I am learning Web Development.
 
 Skills: JS / HTML / CSS
