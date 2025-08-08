@@ -58,6 +58,7 @@ I love solving problems and continuously learning new technologies to enhance my
 
 <p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=AAzizshishir)](https://git.io/streak-stats)
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAzizshishir&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
