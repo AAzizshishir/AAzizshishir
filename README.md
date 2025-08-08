@@ -28,7 +28,7 @@ I love solving problems and continuously learning new technologies to enhance my
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
 </p>
 
 ### 🔧 Backend & Database
