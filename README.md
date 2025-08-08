@@ -57,7 +57,7 @@ I love solving problems and continuously learning new technologies to enhance my
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAzizshishir&theme=tokyonight" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=AAzizshishir)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
