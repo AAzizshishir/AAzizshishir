@@ -46,14 +46,14 @@ I love solving problems and continuously learning new technologies to enhance my
 
 <p>
   <a href="https://github.com/shishir-aziz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdulazizshishir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aashishir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shishir-aziz&show_icons=true&theme=tokyonight" alt="shishir-aziz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shishir-aziz&show_icons=true&theme=tokyonight" alt="AAShishir" />
 </p>
 
 <p align="center">
