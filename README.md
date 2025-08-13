@@ -52,18 +52,7 @@ I love solving problems and continuously learning new technologies to enhance my
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAzizshishir&show_icons=true&theme=tokyonight" alt="AAzizshishir" />
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats-1-beta.vercel.app?user=AAzizShishir)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAzizshishir&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 <div align="center">
-
 <table>
   <tr>
     <td>
