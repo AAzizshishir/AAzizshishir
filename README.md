@@ -61,3 +61,20 @@ I love solving problems and continuously learning new technologies to enhance my
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAzizshishir&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AAzizshishir&show_icons=true&theme=tokyonight" alt="AAzizshishir" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats-1-beta.vercel.app?user=AAzizShishir" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAzizshishir&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+</div>
