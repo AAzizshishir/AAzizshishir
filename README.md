@@ -55,9 +55,9 @@ I love solving problems and continuously learning new technologies to enhance my
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AAzizshishir&show_icons=true&theme=tokyonight" alt="AAzizshishir" />
 </p>
-<p align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats-1-beta.vercel.app?user=AAzizShishir)](https://git.io/streak-stats)
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAzizshishir&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
