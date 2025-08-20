@@ -17,7 +17,7 @@ I love solving problems and continuously learning new technologies to enhance my
 <!-- Current Activities -->
 ## 🚀 Current Activities
 
-- 🌱 Exploring **Next.js** and Server-Side Rendering
+- 🌱 Exploring **Next.js**
 - 💻 Building a full-stack **Tourism Website**
 - ✍️ Enhancing my knowledge in **Data Structures & Algorithms**
 - 🧪 Working on **project-based learning** with real-world features
