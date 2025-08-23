@@ -18,7 +18,7 @@ I love solving problems and continuously learning new technologies to enhance my
 ## 🚀 Current Activities
 
 - 🌱 Exploring **Next.js**
-- 💻 Building a full-stack **Tourism Website**
+- 💻 Building a full-stack **E-Commerce Site** with Next.js
 - ✍️ Enhancing my knowledge in **Data Structures & Algorithms**
 - 🧪 Working on **project-based learning** with real-world features
 - 🛐 Balancing learning with my spiritual commitments
