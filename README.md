@@ -33,7 +33,7 @@ I love solving problems and continuously learning new technologies to enhance my
 
 ### 🔧 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" />
 </p>
 
 ### ⚙️ Tools & Others
